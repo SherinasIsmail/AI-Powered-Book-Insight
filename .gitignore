@@ -3,5 +3,5 @@ node_modules/
 __pycache__/
 .next/
 .env
-db.sqlite3
+chroma_db
 *.pyc
