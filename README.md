@@ -12,11 +12,27 @@ Modern Responsive UI: Built with Next.js and styled with Tailwind CSS for a prof
 
 📸 Screenshots:
 Note to Evaluators: Per assignment requirements, screenshots are provided below to demonstrate full functionality.
-Dashboard View:[Click to View](./screenshots/dashboard.png)
-Book Detail Page:
-Q&A Interface:
-LM Studio Server:
+### 1. Library Dashboard
+![Dashboard](Screenshots/Dashboard.png)
 
+### 2. AI-Generated Book Insights (Summary & Genre)
+![Details](Screenshots/Bookdetail.png)
+![Details](Screenshots/Booksource.png)
+
+### 3. RAG-Powered Q&A System
+![Query](Screenshots/AI_Q&A.png)
+![Query](Screenshots/AI_Q&A_2.png)
+
+### 4. Local LLM Server (LM Studio)
+![Query](Screenshots/LMstudio1.png)
+![Query](Screenshots/LMstudio2.png)
+![Query](Screenshots/LMstudio3.png)
+
+### Backend API & Automation
+- **Scrape Trigger**: ![Scrape Trigger](./Screenshots/ScrapeTrigger.png)
+- **Book Metadata API**: ![Book List](./Screenshots/Booklist.png)
+  ![Book List](./Screenshots/Booklist2.png)
+  
 🛠️ Tech Stack
 Frontend: Next.js, Tailwind CSS 
 Backend: Django REST Framework, Python 
