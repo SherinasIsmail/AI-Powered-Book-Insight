@@ -41,13 +41,13 @@ AI Integration: LM Studio (Local LLM hosting - Recommended)
 Automation: Selenium 
 
 ⚙️ Setup Instructions 
-1. Prerequisites
+### 1. Prerequisites
    Python 3.10+
    Node.js & npm
    MySQL Server
    LM Studio2.
 
-2. Backend Setup
+### 2. Backend Setup
 # Navigate to project root
 cd Ergosphere_project
 
@@ -65,7 +65,7 @@ python manage.py migrate
 # Start the Django server
 python manage.py runserver
 
-3. Frontend Setup
+### 3. Frontend Setup
 # Navigate to frontend folder
 cd frontend
 
