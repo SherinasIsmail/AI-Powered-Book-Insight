@@ -1,4 +1,4 @@
-Document Intelligence Platform
+# Document Intelligence Platform
 
 A high-performance, full-stack web application designed for automated book data collection and intelligent document querying through a RAG (Retrieval-Augmented Generation) pipeline.
 
@@ -28,7 +28,7 @@ Note to Evaluators: Per assignment requirements, screenshots are provided below 
 ![LMstudio2](Screenshots/LMstudio2.png)
 ![LMstudio3](Screenshots/LMstudio3.png)
 
-### Backend API & Automation
+### 5. Backend API & Automation
 - **Scrape Trigger**: ![ScrapeTrigger](./Screenshots/ScrapeTrigger.png)
 - **Book Metadata API**: ![Booklist](./Screenshots/Booklist.png)
   ![Booklist2](./Screenshots/Booklist2.png)
